@@ -8,3 +8,7 @@ Changes made:
 -Fixed a link to Search Engine Optimization in the Nav bar
 -combined many of the syle elements in the css to cut down on repeated code
 -rearranged stlye selectors under appropriate comments to make it easier to read
+
+![Screenshot of Webpage](./assets/images/screenshot-of-page.png)
+
+Link to deployed website: https://adamkeyser45.github.io/mod1challenge/
